@@ -6,6 +6,6 @@ Diabetes is a chronic long-lasting health condition that affects how your body t
 
 In this project, we will use machine learning algorithms to address the issue of diabetes. We will use the labeled vital measurements of the patients for example, "Age and Blood Insulin Level" from data then train them using machine learning neural networks to make predictions on new patients.
 
-The Diabetes Dataset
+## The Diabetes Dataset
 
 The dataset that will be used in this project is obtained from the Pima Indians Diebetes dataset, as provided by the National Institute of Diabtes, Digestive, and Kidney Diseases and hosted by Kaggle.
