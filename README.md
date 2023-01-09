@@ -16,6 +16,8 @@ In this project, we have designed and implemented a Neural Networks Multi-Layer 
 
 When exploring our data we looked at the distribution of each variable, as well as the relationship between each of those variables and the target variable. After exploratory data analysis, we performed some data preprocessing to remove any missing data to avoid overfitting in our model performance by standardizing such that each variable has a mean of 0 with a unit standard deviation. Then, we moved forward to train-test and split our data into three categories: "Training Set, Validation Srt, & lastly Testing Set". 
 
+<img width="837" alt="Screenshot 2023-01-08 at 19 23 01" src="https://user-images.githubusercontent.com/85582924/211388152-69176ebb-94a9-4049-888d-83e04a10f60c.png">
 
+<img width="1083" alt="Screenshot 2023-01-08 at 19 14 41" src="https://user-images.githubusercontent.com/85582924/211388192-b97ef16c-eac8-4023-821e-bd0df5c9079f.png">
 
 The Neural Network MLP architecture that was used in this project consist of 2 hidden layers, with 32 nodes in the first hidden layer and 16 nodes in the second hidden layer. 
